@@ -2,6 +2,12 @@
 
 namespace Area;
 
+/**
+ * Class AreaServiceTest
+ *
+ * @package Area
+ * @group functional_testing
+ */
 class AreaServiceTest extends \PHPUnit_Framework_TestCase
 {
     private $instance;
